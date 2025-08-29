@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vapoo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="main">
+    <div class="smoke-bg">
+      <video id="smokeVideo" autoplay muted loop>
+        <source src="video humo.mp4" type="video/mp4">
+      </video>
+    </div>
+    <!-- Menú hamburguesa -->
+    <img src="LOGO/images-removebg-preview.png" id="menu-hamburguesa" alt="Menú" class="menu-hamburguesa">
+         <div class="brand-logo">
+       <img src="LOGO/ChatGPT Image 13 ago 2025, 11_12_38 p.m..png" alt="VAPER HOUSE Logo" class="logo-img">
+     </div>
+     
+     <!-- Sección de productos -->
+     <section id="productos-section" style="margin-top: 30px; background: rgba(30,30,30,0.7); display: block;">
+       <h2 id="titulo-categoria">PRODUCTOS</h2>
+       <div id="productos-grid"></div>
+     </section>
+ 
+   </div>
+
+  <!-- Overlay para cerrar el menú -->
+  <div id="sidebar-overlay" class="sidebar-overlay sidebar-overlay-hidden"></div>
+
+  <!-- Sidebar oculto -->
+  <nav id="sidebar" class="sidebar-hidden">
+    <ul>
+      <li class="menu-item-with-submenu">
+        <span class="menu-item-text">Productos</span>
+        <span class="submenu-toggle">▼</span>
+        <ul class="submenu">
+        <li data-categoria="todos">VER TODOS</li>
+        <li data-categoria="RECARGABLES">RECARGABLES</li>
+        <li data-categoria="LÍQUIDOS">LÍQUIDOS</li>
+        <li data-categoria="DESCARTABLES">DESCARTABLES</li>
+        </ul>
+      </li>
+      <li>Nosotros</li>
+      <li>Contacto</li>
+    </ul>
+    
+    
+  </nav>
+
+  <script src="smoke.js"></script>
+</body>
+</html>
+

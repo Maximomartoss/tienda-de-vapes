@@ -1,0 +1,90 @@
+{
+  "productos": [
+    {
+      "id": "elfbar-nice-king",
+      "nombre": "ELFBAR NICE KING",
+      "categoria": "DESCARTABLES",
+      "descripcion": "Vape descartable con sabor premium",
+      "puffs": "5000 puffs",
+      "fotos": [
+        "vapes descartables/ELFBAR_MICE_KING/elf bar ice king/ELFBAR_NICE_KING_1.png",
+        "vapes descartables/ELFBAR_MICE_KING/elf bar ice king/ELFBAR_NICE_KING_2-removebg-preview.png"
+      ]
+    },
+    {
+      "id": "lost-mary-mixed",
+      "nombre": "Lost Mary Mixed",
+      "categoria": "DESCARTABLES",
+      "descripcion": "Vape descartable con sabor mixto premium",
+      "puffs": "20000 puffs",
+      "fotos": [
+        "vapes descartables/Lost Mary Mixed/vapeo_mar_del_plata_LOST_MARY_MIXED-removebg-preview.png"
+      ]
+    },
+    {
+      "id": "radbeast-touch",
+      "nombre": "RadBeast Touch",
+      "categoria": "DESCARTABLES",
+      "descripcion": "Vape descartable con tecnología touch avanzada",
+      "puffs": "10000 puffs",
+      "fotos": [
+        "vapes descartables/RadBeast Touch/vapeo_mar_del_plata_rabbeats-rc10000-touch-vape-removebg-preview.png"
+      ]
+    },
+    {
+      "id": "xros-3-nano",
+      "nombre": "Xros 3 Nano - Vaporesso",
+      "categoria": "RECARGABLES",
+      "descripcion": "Vape recargable con tecnología avanzada y diseño compacto",
+      "fotos": [
+        "RECARGABLES/Xros 3 Nano/imagen_2025-08-28_232819892-removebg-preview.png"
+      ]
+    },
+    {
+      "id": "xros-mini-baroque",
+      "nombre": "Vaporesso Xros Mini - Baroque Version",
+      "categoria": "RECARGABLES",
+      "descripcion": "Vape recargable con diseño barroco elegante y tecnología avanzada",
+      "fotos": [
+        "RECARGABLES/Vaporesso Xros Mini/imagen_2025-08-28_234744711-removebg-preview.png"
+      ]
+    },
+    {
+      "id": "vaporesso-sky-solo-plus",
+      "nombre": "Vaporesso Sky Solo Plus",
+      "categoria": "RECARGABLES",
+      "descripcion": "Vape recargable con tecnología avanzada y diseño premium",
+      "fotos": [
+        "RECARGABLES/vaporeso sky solo plus/imagen_2025-08-29_000718965-removebg-preview.png",
+        "RECARGABLES/vaporeso sky solo plus/imagen_2025-08-29_000616544-removebg-preview.png"
+      ]
+    },
+    {
+      "id": "ignite-juice-mint-ice",
+      "nombre": "IGNITE JUICE MINT ICE FREEBASE 100ml",
+      "categoria": "LÍQUIDOS",
+      "descripcion": "Líquido premium con sabor a menta helada, 100ml",
+      "fotos": [
+        "LIQUIDOS/liquido ice.png"
+      ]
+    },
+    {
+      "id": "ignite-juice-mango-ice",
+      "nombre": "IGNITE JUICE MANGO ICE FREEBASE 100ml",
+      "categoria": "LÍQUIDOS",
+      "descripcion": "Líquido premium con sabor a mango helado, 100ml",
+      "fotos": [
+        "LIQUIDOS/Captura_de_pantalla_2025-08-29_001533-removebg-preview.png"
+      ]
+    },
+    {
+      "id": "ignite-juice-blueberry-ice",
+      "nombre": "IGNITE JUICE BLUEBERRY ICE FREEBASE 100ml",
+      "categoria": "LÍQUIDOS",
+      "descripcion": "Líquido premium con sabor a arándano helado, 100ml",
+      "fotos": [
+        "LIQUIDOS/blouberry ice.png"
+      ]
+    }
+  ]
+}
